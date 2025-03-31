@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZlpAtFjdGZHc0tR4ugyWueh9H2LdIUXvDx9LBlf1KFM=",
+  "Source": "simple-blog-api",
+  "BasePath": "_content/simple-blog-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
