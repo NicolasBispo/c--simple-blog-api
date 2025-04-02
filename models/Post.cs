@@ -16,5 +16,6 @@ namespace SimpleBlogApi.Models
   
     public required int CreatorId {get; set;}
     public required User Creator { get; set; }
+    public List<Category> Categories { get; set; } = [];
   }
 }

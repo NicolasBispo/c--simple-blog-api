@@ -160,3 +160,4 @@
 /Users/nicolasbispo/projetosnicolas/simple-blog-api/simple-blog-api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
 /Users/nicolasbispo/projetosnicolas/simple-blog-api/simple-blog-api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/nicolasbispo/projetosnicolas/simple-blog-api/simple-blog-api/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/nicolasbispo/projetosnicolas/simple-blog-api/simple-blog-api/obj/Debug/net9.0/simple-blog-api.sourcelink.json
